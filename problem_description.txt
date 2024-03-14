@@ -1,0 +1,17 @@
+Given two integers as user inputs that represent the number of bottles to restock,
+create a VendingMachine object that performs the following operations:
+
+-Purchases input number of drinks
+-Restocks input number of bottles
+-Reports inventory
+
+A VendingMachine's initial inventory is 20 drinks.
+
+Ex: If the input is:
+
+5
+2
+
+the output is:
+
+Inventory: 17 bottles
